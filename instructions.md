@@ -82,7 +82,7 @@ THEN they are able to learn about the developer, find contact information, and f
 
 * Fonts:
    * For heading fonts use `font-family: 'Georgia', Times, 'Times New Roman', serif;`
-   * For all other fonts use `'Arial', 'Helvetica Neue', Helvetica, sans-serif;`
+   * For all other fonts use `'Arial', 'Helvetica Neue', Helvetica, sans-srife;`
 
 * Profile image in `index.html`:
    * Use a picture of yourself.
