@@ -4,6 +4,10 @@ header{
     background-color: #4aaaa5;
 }
 
+a{
+    align-self: left;
+
+}
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
@@ -23,5 +27,5 @@ footer{
     border-top: 8px, #4aaaa5, solid;
     flex-shrink:0;
     background-color:#666666;   
-
+    text-align: center;
 }
