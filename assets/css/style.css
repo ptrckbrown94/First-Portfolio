@@ -1,7 +1,10 @@
 header{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color:#ffffff;
+    border-color: #cccccc;
     color:#777777;
+    display: flex;
+    flex-wrap: ;
 }
 
 a{
@@ -10,7 +13,14 @@ a{
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.name{
     background-color: #4aaaa5;
+    width: 102px;
+    padding: 10px 0px;
+
 }
 
 p{
