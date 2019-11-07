@@ -1,10 +1,10 @@
 header{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color:#ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-color: #ffffff;
     border-color: #cccccc;
     color:#777777;
     display: flex;
-    flex-wrap: ;
+    flex-wrap:wrap;
 }
 
 a{
@@ -23,14 +23,31 @@ h1{
 
 }
 
+div{
+
+}
+
 p{
    color: #777777; 
+   font-family: 'Roboto', sans-serif;
 }
 
 body{
     font-family: Arial, Helvetica, sans-serif;
 
 }
+
+.btn {
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    border-radius: 4px;
+    border-color: #4aaaa5;
+    background-color:  #4aaaa5;
+    color: #777777;
+    cursor: pointer;
+    transition: all 0.3s ease 0.0s
+  }
+  
 
 footer{
     font-family: Arial, Helvetica, sans-serif;
