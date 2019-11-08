@@ -14,7 +14,6 @@ h1{
 
 h2{
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 .name{
@@ -22,15 +21,24 @@ h2{
     background-color: #4aaaa5;
     width: 102px;
     padding: 10px opx;
-    
 }
+
+.box-2{
+    background-color: #ffffff;
+    margin: 20px;
+    padding: ;
+    border-color: #dddddd;
+    width: 960px;
+}
+
 
 
 .box{
     background-color: #ffffff;
     margin: 20px;
-    padding: 5% 10%;
+    padding: ;
     border-color: #dddddd;
+    width: 960px;
 }
 
 p{
